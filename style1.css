@@ -93,3 +93,28 @@ nav   a:hover{
 
 /*||||||||||SECTION||||||||||*/
 
+section{
+    display: flex;
+    justify-content: space-between;
+}
+.millieu-gauche{
+    background-color: grey;
+    height: 500px;
+    width: 260px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.millieu{
+    background-color: grey;
+    height: 500px;
+    width: 260px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.millieu-droit{
+    background-color: grey;
+    height: 500px;
+    width: 260px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
